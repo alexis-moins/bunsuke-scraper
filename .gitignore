@@ -1,0 +1,7 @@
+# Directories
+data/
+
+# Files
+.DS_Store
+vocabulary.txt
+articles.txt
